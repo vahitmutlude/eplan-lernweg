@@ -11,3 +11,9 @@
 - Modul "Verhalten der Benutzeroberfläche" abgeschloßen
 - Menüband passt sich der Fenstergröße an: bei kleinerem Fenster werden Befehle gruppiert, bleiben aber alle erreichbar
 - Quiz bestanden
+
+## Tag 3 - 21.05.2026
+- Modul "Anpassen des Menübandes" abgeschlossen
+- Über den Dialog "Anpassen" eine eigene Registerkarte mit häufig benutzten Funktionen erstellen
+- Makro einfügen geübt
+- Quiz bestanden
