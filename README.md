@@ -19,7 +19,7 @@ deshalb möchte ich mich frühzeitig damit beschäftigen.
 ## Fortschritt
 
 ### Beginners
-- [ ] Benutzeroberfläche
+- [x] Benutzeroberfläche
 - [ ] Backstage-Ansicht
 - [ ] Eplan Electric P8 Tutorial
 
