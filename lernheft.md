@@ -31,4 +31,4 @@
 - Backstage-Menübereich "Informationen": Eigenschaften, Status, Struktur
 - Basisprojekte enthalten Stammdaten und Einstellungen; vorgefertigt nach Normen GOST, IEC, NFPA oder selbst erstellen
 - Projektsicherung dient zur Archivierung (nicht zum Teilen), Dateiendung .zw1, referenzierte Daten optional einlagern
-- Alle 3 Quizze bestanden
+- Alle 3 Quizze bestanden.
