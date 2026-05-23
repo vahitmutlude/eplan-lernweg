@@ -24,3 +24,11 @@
 - Einheitliche Icon-Sprache: Plus-Symbol für Neu/Erzeugen, Icons helfen auch beim Erkennen von Projektierungsfehlern
 - Kurs "Benutzeroberfläche" zu 100 % abgeschlossen
 - Beide Quizze bestanden
+
+## Tag 5 - 23.05.2026
+- Neuen Kurs "Projekte und Einstellungen (Backstage-Ansicht)" angefangen
+- Module abgeschlossen: Einstellungen und Projekt öffnen, Neues Projekt erstellen, Projektsicherung
+- Backstage-Menübereich "Informationen": Eigenschaften, Status, Struktur
+- Basisprojekte enthalten Stammdaten und Einstellungen; vorgefertigt nach Normen GOST, IEC, NFPA oder selbst erstellen
+- Projektsicherung dient zur Archivierung (nicht zum Teilen), Dateiendung .zw1, referenzierte Daten optional einlagern
+- Alle 3 Quizze bestanden
