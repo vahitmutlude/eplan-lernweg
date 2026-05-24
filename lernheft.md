@@ -32,3 +32,12 @@
 - Basisprojekte enthalten Stammdaten und Einstellungen; vorgefertigt nach Normen GOST, IEC, NFPA oder selbst erstellen
 - Projektsicherung dient zur Archivierung (nicht zum Teilen), Dateiendung .zw1, referenzierte Daten optional einlagern
 - Alle 3 Quizze bestanden.
+
+## Tag 6 - 24.05.2026
+- Module abgeschlossen: Projektdokumentation drucken, Daten Importieren und Exportieren, Extras
+- Begleitdokumente zum Ausdruck über den Menübereich "Druckumfang" hinzufügen
+- DXF/DWG-Dateien lassen sich über die Backstage-Ansicht importieren und exportieren
+- Beschriftungsausgabe unterstützt Excel (.xlsx, .xlsm, .xlsb), Text (.txt) und XML (.xml)
+- Rechteverwaltung: im AnmeldenModus Zugangsdaten für alle Benutzer nötig, Bearbeitungsrechte pro Benutzer an derselben Arbeitsstation festlegen
+- Kurs "Backstage Ansicht" zu 100 % abgeschlossen
+- Alle 3 Quizze bestanden
