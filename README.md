@@ -20,7 +20,7 @@ deshalb möchte ich mich frühzeitig damit beschäftigen.
 
 ### Beginners
 - [x] Benutzeroberfläche
-- [ ] Backstage-Ansicht
+- [x] Backstage-Ansicht
 - [ ] Eplan Electric P8 Tutorial
 
 ### Advanced
